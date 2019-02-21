@@ -16,6 +16,10 @@ public class Columns {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ColumnN columnas = new ColumnN();
+        columnas.cols(977);
+        
+        
     }
     
 }
